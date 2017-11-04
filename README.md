@@ -30,5 +30,5 @@ There are 3 models implemented in this project:
 * Get 5 center scores of training data.
 * Applied these center scores in feature words from testing data to predict star rate.
 
-Model 2 perfor the best while model 3 got the worst accuracy.
+Model 2 performed the best while model 3 got the worst accuracy.
 
